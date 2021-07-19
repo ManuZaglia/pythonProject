@@ -1,2 +1,2 @@
 # pythonProject
-Exercício em Phyton
+Exercício em Phyton do curso FIAP ON
